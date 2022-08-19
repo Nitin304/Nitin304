@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Nitin304
+- 👀 I’m interested in Web/mobile development and learning new ways of automating things.
+- 🌱 I’m currently learning Azure.
+- 💞️ I’m looking to collaborate on projects
+- 📫 How to reach me ... @ nitin.arora.nit@gmail.com
